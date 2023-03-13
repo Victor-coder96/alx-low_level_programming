@@ -1,6 +1,3 @@
-Learning Objectives
-
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 General
 
     What is a static library, how does it work, how to create one, and how to use it
@@ -39,6 +36,3 @@ Bash
     A README.md file, at the root of the folder of the project, describing what each script is doing
     All your files must be executable
 
-More Info
-
-You do not need to learn about dynamic libraries, yet.
