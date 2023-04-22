@@ -1,7 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "main.h"
-
+#include <stdlib.h>
 /**
  * reads_textfile - reads a text file and prints the letters
  * @filename: filename.
@@ -36,4 +34,3 @@ ssize_t read_textfile(const char *filename, size_t letters)
 
 	return (nwr);
 }
-
